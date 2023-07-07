@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pemiguel <pemiguel@student.42.fr>          +#+  +:+       +#+        */
+/*   By: fpinho-d <fpinho-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/28 20:21:54 by pemiguel          #+#    #+#             */
-/*   Updated: 2023/01/10 22:20:57 by pemiguel         ###   ########.fr       */
+/*   Updated: 2023/07/07 18:02:56 by fpinho-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -92,5 +92,9 @@ int		check_duplicates(char **argv, int size);
 int		check_int_value(char **argv);
 int		check_arr(char **argv);
 int		check_only_minus(char **argv);
+
+//mac_min.c
+
+
 
 #endif
